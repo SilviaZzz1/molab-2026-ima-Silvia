@@ -38,5 +38,4 @@ func generateBlock(_ width: Int, _ height: Int) {
 
 print("My Random Pattern:")
 print("")
-
 generateBlock(8, 8)
